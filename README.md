@@ -1,16 +1,6 @@
-# pqt_fourth
+# Some Images of Working Android App (Predict Queue Wait Time in hospital Environment
+![image](https://user-images.githubusercontent.com/66210607/166097023-bf8ba311-6ea0-49ea-a932-c91c97498d92.png)
+![image](https://user-images.githubusercontent.com/66210607/166097026-41f6ea5e-a71d-47eb-9cfb-40f4f6e9e877.png)
+![image](https://user-images.githubusercontent.com/66210607/166097033-0d70a515-a52f-4217-9500-d12b89359b79.png)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
